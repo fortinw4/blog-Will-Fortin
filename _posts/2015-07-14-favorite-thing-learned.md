@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # My Favorite Lesson from Rockit Bootcamp thus far
 
 I had a wonderful time learning how to create media objects,
